@@ -1,5 +1,5 @@
 classes = 3
 train = data_RGB/train/train_yolo.csv
-test = data_RGB/test/test_yolo.csv
+valid = data_RGB/test/test_yolo.csv
 names = darknet/data/obj.names
 backup = /mydrive/iranian_models/yolov4/backup
