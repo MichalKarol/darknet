@@ -1,0 +1,5 @@
+classes = 3
+train = ../data_RGB/train/train.txt
+test = ../data_RGB/test/test.txt
+names = data/obj.names
+backup = /mydrive/iranian_models/yolov4/backup
